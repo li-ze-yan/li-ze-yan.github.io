@@ -1,12 +1,2 @@
-## tkx.cool personal website
-
-懂小白毕业设计项目
-穿云箭项目
-烟草小程序项目
-千将中台项目
-数字地球综合态势项目
-东部战区教学系统
-组合式大屏控件项目
-睿晟海外官网
-睿晟国内官网
-华为push
+## tkx.cool
+personal website
