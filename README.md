@@ -1,2 +1,2 @@
-## tkx.cool
+# tkx.cool
 personal website
